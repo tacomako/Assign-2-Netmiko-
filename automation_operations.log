@@ -1,0 +1,94 @@
+DEBUG:netmiko:Has Connected to the Device
+DEBUG:netmiko:write_channel: b'\n'
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+Drouter1#
+DEBUG:netmiko:Pattern found: ([>#]) 
+Drouter1#
+DEBUG:netmiko:write_channel: b'exit\n'
+DEBUG:netmiko:write_channel: b'\n'
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+DEBUG:paramiko.transport:EOF in transport thread
+DEBUG:netmiko:read_channel: 
+Drouter2#
+DEBUG:netmiko:Pattern found: ([>#]) 
+Drouter2#
+DEBUG:netmiko:write_channel: b'exit\n'
+DEBUG:netmiko:Has Connected to the Device
+DEBUG:netmiko:write_channel: b'\n'
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+
+DEBUG:netmiko:read_channel: Drouter1#
+DEBUG:netmiko:Pattern found: ([>#]) 
+Drouter1#
+DEBUG:netmiko:write_channel: b'exit\n'
+DEBUG:netmiko:write_channel: b'\n'
+DEBUG:netmiko:read_channel: 
+DEBUG:paramiko.transport:EOF in transport thread
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+
+DEBUG:netmiko:read_channel: Drouter2#
+DEBUG:netmiko:Pattern found: ([>#]) 
+Drouter2#
+DEBUG:netmiko:write_channel: b'exit\n'
+DEBUG:netmiko:Has Connected to the Device
+DEBUG:netmiko:write_channel: b'\n'
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+Drouter1#
+DEBUG:netmiko:Pattern found: ([>#]) 
+Drouter1#
+DEBUG:netmiko:write_channel: b'exit\n'
+DEBUG:netmiko:write_channel: b'\n'
+DEBUG:netmiko:read_channel: 
+DEBUG:paramiko.transport:EOF in transport thread
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+Drouter2#
+DEBUG:netmiko:Pattern found: ([>#]) 
+Drouter2#
+DEBUG:netmiko:write_channel: b'exit\n'
+DEBUG:netmiko:Has Connected to the Device
+DEBUG:netmiko:write_channel: b'\n'
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+Drouter1#
+DEBUG:netmiko:Pattern found: ([>#]) 
+Drouter1#
+DEBUG:netmiko:write_channel: b'exit\n'
+DEBUG:netmiko:write_channel: b'\n'
+DEBUG:netmiko:read_channel: 
+DEBUG:paramiko.transport:EOF in transport thread
+DEBUG:netmiko:read_channel: 
+Drouter2#
+DEBUG:netmiko:Pattern found: ([>#]) 
+Drouter2#
+DEBUG:netmiko:write_channel: b'exit\n'
+DEBUG:netmiko:Has Connected to the Device
+DEBUG:netmiko:write_channel: b'\n'
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+
+DEBUG:netmiko:read_channel: Drouter1#
+DEBUG:netmiko:Pattern found: ([>#]) 
+Drouter1#
+DEBUG:netmiko:write_channel: b'exit\n'
+DEBUG:netmiko:write_channel: b'\n'
+DEBUG:netmiko:read_channel: 
+DEBUG:paramiko.transport:EOF in transport thread
+DEBUG:netmiko:read_channel: 
+DEBUG:netmiko:read_channel: 
+Drouter2#
+DEBUG:netmiko:Pattern found: ([>#]) 
+Drouter2#
+DEBUG:netmiko:write_channel: b'exit\n'
